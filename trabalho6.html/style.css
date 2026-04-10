@@ -1,0 +1,80 @@
+/*main {
+    background: linear-gradient(238deg, );
+}*/
+main {
+    background-color: whitesmoke;
+}
+
+.div2 {
+    justify-self: center;
+    text-align: center;
+}
+
+.div3 {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.subdiv31, .subdiv32, .subdiv33 {
+    object-fit: cover;
+    width: 300px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 8px;
+}
+
+.subdiv31 a, .subdiv32 a, .subdiv33 a {
+    text-decoration: none;
+}
+
+.subdiv31 img, .subdiv32 img, .subdiv33 img {
+    border-radius: 8px;
+}
+
+.div5 {
+    text-align: center;
+    justify-self: center;
+    justify-content: center;
+}
+
+.div5 h2, .div2 h2 {
+    font-size: 5.0;
+}
+
+.div5 p, .div2 p {
+    font-size: smaller;
+}
+
+.div4 {
+    display: flex;
+    justify-self: center;
+    width: 95%;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: gainsboro;
+}
+
+.item-lista1, .item-lista2, .item-lista3 {
+    width: 800px;
+    height: 70px;
+    justify-content: baseline;
+    border-radius: 4px;
+    border-left: 2px solid blue;
+
+}
+
+.subsubdiv411 {
+    padding: 3px;
+    border-radius: 8px;
+    background-color: #e3effd;
+    width: 800px;
+    height: 70px;
+}
+
+.subsubdiv412, .subsubdiv413, .subsubdiv414, .subsubdiv415 {
+    background-color: white;
+    margin-bottom: 10px;
+    padding: 3px;
+    border-radius: 8px;
+}
