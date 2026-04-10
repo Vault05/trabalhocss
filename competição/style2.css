@@ -1,0 +1,127 @@
+.card1 {
+    width: 250px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px  #aaa;
+    padding: 15px;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.card1 img{
+    border-radius: 10px;
+}
+
+.card1 a{
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+    background: #333;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 6px;
+}
+
+.main2 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+header {
+    text-align: left;
+    background-color: rgb(41, 40, 40);
+    width: 100%;
+    color: rgb(250, 244, 244);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.main1{
+    text-align: center;
+    background-color: #0d51cf;
+    width: 100%;
+    color: rgb(250, 244, 244);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.topnav{
+    text-align: right;
+    text-decoration: none;
+}
+
+.card2 {
+    width: 30%;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px  #aaa;
+    padding: 15px;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+
+.card2 h3{
+    text-align: left;
+}
+
+.card2 p {
+    text-align: left;
+}
+
+.card3 {
+    
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px  #aaa;
+   
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+}
+
+hearder h1{
+    text-align: left;
+}
+
+footer{
+    background-color:black;
+    color:white;
+    padding: 40px 20px 20px;
+  font-family: Arial, sans-serif;
+  
+}  
+
+footer a{
+    text-decoration:none;
+    color:gray
+}
+footer{
+    display:flex;
+    margin:auto;
+    max-width:10000px
+}
+footer p{
+    font-size:12px;
+    margin:15px;
+    color:gray
+}
+.divfooter1,
+.divfooter2,
+.divfooter3{
+    width:30%;
+    min-width:500px;
+}
