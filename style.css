@@ -1,0 +1,22 @@
+.cabecario {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+nav {
+    display: flex;
+    gap: 30px;
+    align-content: center;
+    align-items: center;
+}
+
+header h2, header p, nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.box1{
+    background: linear-gradient(to right, rgb(28, 39, 103), rgb(48, 77, 243) )
+}
